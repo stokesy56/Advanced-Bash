@@ -1,5 +1,6 @@
 #!/bin/bash
 
+git_go(){
 git add .
 echo 'What is your commit message?'
 read commitMessage
@@ -8,4 +9,5 @@ echo 'Enter name of your branch'
 read branch
 git push origin $branch
 read
-end
+}
+git_go
