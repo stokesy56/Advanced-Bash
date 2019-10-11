@@ -7,3 +7,4 @@ git commit -m "$commitMessage"
 echo 'Enter name of your branch'
 read
 git push origin $branch
+read
