@@ -1,4 +1,4 @@
-# Advance bash notes :sushi::fried_shrimp::watermelon:
+# Advance bash notes :sushi::fried_shrimp::watermelon::peach::bread:
 
 ## Linux is extensionless
 - .txt etc. means nothing
