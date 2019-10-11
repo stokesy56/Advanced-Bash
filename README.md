@@ -82,3 +82,14 @@ cat example.txt | grep it
 top = shows top processes in order of cpu and memory usaage
 ps = shows user processes
 ps  = shows all processes
+
+#### To kill use kill and the process ID (pid)
+  kill <pid>
+
+#### Sending process to background
+
+##### Process in foreground
+  sleep 100 = will sleep your machine for 100 seconds (foreground)
+
+##### Process in the background
+sleep 100 & = will send this to the background (basically wont do anything but can be viewed by ps aux)
